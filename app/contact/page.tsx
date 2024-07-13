@@ -19,11 +19,11 @@ export default function Contact() {
         </div>
         <section className="flex items-start justify-between max-md:flex-col gap-28 my-12 max-md:mb-32 relative">
           <p className="text-base font-medium text-gray">
-            I'm interested in freelance opportunities. However,
+            I&#39;m interested in freelance opportunities. However,
             <br />
             if you have other request or question,
             <br />
-            don't hesitate to contact me
+            don&#39;t hesitate to contact me
           </p>
           <div className="flex items-start gap-3 max-md:self-end">
             <div className="flex flex-col gap-2 p-4 border border-gray">

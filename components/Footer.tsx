@@ -6,8 +6,7 @@ export default function Footer() {
       <div className="container flex items-center justify-between gap-8">
         <div className="flex flex-col items-start justify-between gap-4">
           <div className="flex items-start gap-6">
-            <Link href="/" className="font-bold text-base"><img src="/img/logo.png" alt="logo" className="w-4 h-4 inline-block" />{" "}
-              Elias</Link>
+            <Link href="/" className="font-bold text-base"><img src="/img/logo.png" alt="logo" className="w-4 h-4 inline-block" /> Elias</Link>
             <p>elias@elias-dev.ml</p>
           </div>
           <p className="text-base">Web designer and front-end developer</p>

@@ -243,8 +243,8 @@ export default function Home() {
           <div className="flex flex-col items-start gap-8 w-full">
             <h2 className="section-heading after">about-me</h2>
             <p className="text-base/7 text-gray">
-              Hello, i'm Elias! <br />
-              <br /> I'm a self-taught front-end developer based in Kyiv,
+              Hello, i&#39;m Elias! <br />
+              <br /> I&#39;m a self-taught front-end developer based in Kyiv,
               Ukraine. I can develop responsive websites from scratch and raise
               them into modern user-friendly web experiences. <br />
               <br /> Transforming my creativity and knowledge into a websites
@@ -276,8 +276,8 @@ export default function Home() {
           </div>
           <div className="flex items-center justify-between max-md:flex-col gap-8 w-full">
             <p className="text-base font-medium text-gray self-start">
-              I'm interested in freelance opportunities. However, <br />
-              if you have other request or question, don't <br /> hesitate to
+              I&#39;m interested in freelance opportunities. However, <br />
+              if you have other request or question, don&#39;t <br /> hesitate to
               contact me
             </p>
             <div className="flex flex-col items-start gap-4 p-4 border border-gray self-end">

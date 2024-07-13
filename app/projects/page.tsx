@@ -115,7 +115,7 @@ export default function Projects() {
               </ul>
               <div className="body">
                 <h3>Portfolio</h3>
-                <p>You're using it rn</p>
+                <p>You&#39;re using it rn</p>
                 <div className="btns">
                   <a href="#" className="primary-btn">
                     Github &lt;~&gt;

@@ -19,9 +19,9 @@ export default function AboutMe() {
         </div>
         <section className="flex items-center max-md:flex-col gap-40 mb-28 max-md:mt-20 relative">
           <p className="text-base/7 text-gray max-md:text-lg">
-            Hello, i'm Elias! <br />
+            Hello, i&#39;m Elias! <br />
             <br />
-            I'm a self-taught front-end developer based in Kyiv, Ukraine. I can
+            I&#39;m a self-taught front-end developer based in Kyiv, Ukraine. I can
             develop responsive websites from scratch and raise them into modern
             user-friendly web experiences. <br />
             <br />
@@ -145,7 +145,7 @@ export default function AboutMe() {
                 I am still in school
               </p>
               <p className="p-2 border border-gray text-gray text-nowrap text-base">
-                I don't have any siblings
+                I don&#39;t have any siblings
               </p>
             </div>
             <div className="grid h-full w-2/5">
